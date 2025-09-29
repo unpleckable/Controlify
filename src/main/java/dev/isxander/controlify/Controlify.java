@@ -352,7 +352,7 @@ public class Controlify implements ControlifyApi {
      * @param hotplugged if this was a result of hotplugging
      * @param newController if this controller has never been seen before
      */
-    private void onControllerAdded(ControllerEntity controller, boolean hotplugged, boolean newController) {
+    public void onControllerAdded(ControllerEntity controller, boolean hotplugged, boolean newController) {
         ControllerSetupWizard wizard = new ControllerSetupWizard();
 
         // wizard.addStage(() -> SubmitUnknownControllerScreen.canSubmit(controller), nextScreen -> new SubmitUnknownControllerScreen(controller, nextScreen));
