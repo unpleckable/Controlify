@@ -14,6 +14,7 @@
 A mod that adds the best **controller support** for Minecraft: Java Edition.
 
 </div>
+Sorry isXander i didnt want to pay for patreon
 
 # SPLITSCREEN!
 
