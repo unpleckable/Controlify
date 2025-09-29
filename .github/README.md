@@ -11,7 +11,7 @@
 
 [![https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/patreon-singular_vector.svg](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/patreon-singular_vector.svg)](https://patreon.com/isxander)
 
-A mod that adds the best **controller support** for Minecraft: Java Edition.
+A mod that adds the best **controller support** for Minecraft: Java Edition. Midnight controls actually worked for me lol :)
 
 </div>
 
